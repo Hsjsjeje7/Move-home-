@@ -4,17 +4,13 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>🙋‍♂️Hey {}!!</b>
+    START_TEXT = """<b>ഹായ് {}!!</b>
+<b>ഞാൻ മൂവി hut മലയാളത്തിന്ന് മാത്രം വർക്ക്‌ ചെയുന്ന ഒരു ഓട്ടോ ഫിൽറ്റർ ബോട്ട് ane</b>
+<b>വെറുതെ നോകി നിന്ന് സമയം കളയണ്ട എന്നെ അതിൽ യൂസ് ചെയ്യാൻ മാത്രമായി ഉണ്ടാക്കിയതാ </b>
+<b>എല്ലായാലും start അടിച്ചത് അല്ല്യ എന്നാ ആ മെയിൻ ചാനൽ ഒന്നേ ജോയിൻ ആയിക്കോ 😛</b>
+<b>@MOVIE_HUT_GROUP</b>
 
-<b>I am a Pro AutoFilterBot V2....😜</b>
-
-<b>Make me an admin for your group and channel then connect me....🎉</b>
-
-<b>🙂Watch the video below to build an Pro Autofilter bot V2 like me...</b>
-
-<b>Subscribe to the update channel to learn about my updates and activity...</b>
-
-<b>Press /help to know about available commands🤪</b>"""    
+<b>OWNER @THOMAS_MOVIE_HUT</b>"""    
     
     HELP_TEXT = """
 <b>😉How To Use Me!😉?</b>
