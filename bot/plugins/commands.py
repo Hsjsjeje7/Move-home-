@@ -68,8 +68,8 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🔊 GROUP 🔊', url=f"{@MOVIE_HUT_GROUP}"
-                                )
+                                    '🔊 GROUP 🔊', url=f"{MT_CHANNEL}"
+                               
                         ]
                     ]
                 )
